@@ -1,0 +1,4 @@
+accelerometer
+=============
+
+Android accelerometer example
